@@ -1,0 +1,51 @@
+    body{
+    margin:0px
+    }
+    .menu{
+        width:10%;
+        height:9%;
+        position:fixed;
+        left: -50%;
+        margin-right: 0px;
+        transition: .4s all ;
+        z-index: 1;  
+    }
+    .menu ul{
+        padding:0px;
+        text-align: center;
+    }
+    .menu  li{
+        transition:all .3s;
+        list-style: none;
+    }
+    .menu a{
+        text-decoration: none;
+        font-weight: normal;
+        transition: .3s all ;
+        font-size:20px ;
+        color:white;
+        display: block;
+        padding:20px;
+        margin-top: 7px;
+    }
+    .menu_visible{
+        width: 30%;
+        height: 100vh;
+        position: fixed;
+        left: 0%;
+        border-radius: 7px;
+        box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+        background: rgb(0, 0, 0);
+    }
+    .menu:hover a:hover{ 
+        font-size: 25px;
+        padding: 10px 0px; 
+        color: black;
+        background: rgba(255, 255, 255, 0.98);
+    }
+    @media (min-width: 768px){
+        .barra:hover{
+        width: 45%;
+        }
+    }
+    

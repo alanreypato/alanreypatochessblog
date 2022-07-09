@@ -1,0 +1,217 @@
+
+/*Estos son los estilos de las cosas del contenido del blog*/
+  .blog__content h2{
+    font-size: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+/*Colle System*/
+  .blog__content-CoS{
+    background-color: #f2ebe7;
+    border-radius: 10px;
+  }
+  .blog__content-CoS p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .blog__content-CoS div{
+    display: flex;
+    justify-content: center;
+  }
+  .blog__content-CoS div img{
+    width: 9em;
+    height: 9em;
+  }
+  .blog__content-CoS div button{
+    background: none;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .blog__content-CoS div a{
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid white;
+    background: black;
+  }
+  .blog__content-CoS div button a:hover{
+    font-size: 35px;
+    box-shadow: 0px 0px 10px 4px;
+    transition: 0.1s linear;
+  }
+/*Italian Opening*/
+  .blog__content-IO{
+    background-color: #e6d7cf;
+    border-radius: 10px;
+  }
+  .blog__content-IO p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .blog__content-IO div{
+    display: flex;
+    justify-content: center;
+  }
+  .blog__content-IO div img{
+    width: 9em;
+    height: 9em;
+  }
+  .blog__content-IO div button{
+    background: none;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .blog__content-IO div a{
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid white;
+    background: black;
+  }
+  .blog__content-IO div button a:hover{
+    font-size: 35px;
+    box-shadow: 0px 0px 10px 4px;
+    transition: 0.1s linear;
+  }
+/*Queen's Gambit*/
+  .blog__content-QuG{
+    background-color: #d9c2b6;
+    border-radius: 10px;
+  }
+  .blog__content-QuG p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .blog__content-QuG div{
+    display: flex;
+    justify-content: center;
+  }
+  .blog__content-QuG div img{
+    width: 9em;
+    height: 9em;
+  }
+  .blog__content-QuG div button{
+    background: none;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .blog__content-QuG div a{
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid white;
+    background: black;
+  }
+  .blog__content-QuG div button a:hover{
+    font-size: 35px;
+    box-shadow: 0px 0px 10px 4px;
+    transition: 0.1s linear;
+  }
+/*Dutch Defense*/
+  .blog__content-DuD{
+    background-color: #c09a86;
+    border-radius: 10px;
+  }
+  .blog__content-DuD p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .blog__content-DuD div{
+    display: flex;
+    justify-content: center;
+  }
+  .blog__content-DuD div img{
+    width: 9em;
+    height: 9em;
+  }
+  .blog__content-DuD div button{
+    background: none;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .blog__content-DuD div a{
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid white;
+    background: black;
+  }
+  .blog__content-DuD div button a:hover{
+    font-size: 35px;
+    box-shadow: 0px 0px 10px 4px;
+    transition: 0.1s linear;
+  }
+/*Sicilian Defense*/
+  .blog__content-SD{
+    background-color: #b3866e;
+    border-radius: 10px;
+  }
+  .blog__content-SD p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .blog__content-SD div{
+    display: flex;
+    justify-content: center;
+  }
+  .blog__content-SD div img{
+    width: 9em;
+    height: 9em;
+  }
+  .blog__content-SD div button{
+    background: none;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .blog__content-SD div a{
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid white;
+    background: black;
+  }
+  .blog__content-SD div button a:hover{
+    font-size: 35px;
+    box-shadow: 0px 0px 10px 4px;
+    transition: 0.1s linear;
+  }
+/*Scandinavian Defense*/
+  .blog__content-ScD{
+    background-color: #a67155;
+    border-radius: 10px;
+  }
+  .blog__content-ScD p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .blog__content-ScD div{
+    display: flex;
+    justify-content: center;
+  }
+  .blog__content-ScD div img{
+    width: 9em;
+    height: 9em;
+  }
+  .blog__content-ScD div button{
+    background: none;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .blog__content-ScD div a{
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid white;
+    background: black;
+  }
+  .blog__content-ScD div button a:hover{
+    font-size: 35px;
+    box-shadow: 0px 0px 10px 4px;
+    transition: 0.1s linear;
+  }
